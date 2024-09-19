@@ -1,7 +1,7 @@
 import React from 'react';
 import { Grid, Paper } from '@mui/material';
 import MilitaryDataCharts from './MilitaryDataCharts';
-import RealTimeTankMovement from './RealTimeTankMovement';
+import RealTimeTankMovement from '../assets/RealTimeTankMovement';
 
 // No props are needed, so no need to define an interface for now
 const Dashboard: React.FC = () => {

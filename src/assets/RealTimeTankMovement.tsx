@@ -12,13 +12,13 @@ interface Base {
 
 // Tank icon
 const tankIcon = new L.Icon({
-  iconUrl: 'public/assets/tank1.png',  // Ensure the correct path for your tank image
+  iconUrl: 'assets/tank1.png',  // Ensure the correct path for your tank image
   iconSize: [40, 40]
 });
 
 // Base icon
 const baseIcon = new L.Icon({
-  iconUrl: 'public/assets/base1.png',  // Ensure the correct path for your base image
+  iconUrl: 'assets/base1.png',  // Ensure the correct path for your base image
   iconSize: [40, 40]
 });
 
